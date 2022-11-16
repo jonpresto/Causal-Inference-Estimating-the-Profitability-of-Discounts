@@ -1,3 +1,3 @@
-# Causal-Inference-Estimating-the-Profitability-of-Discounts
+# Regression Discontinuity Design
 
-This project utilizes causal inference techniques to help an e-commerce company estimate the impact of discounts on profits. We explain how bias gets in the way of inferring the treatment effect of discounts on profitability, and how to adjust for it to attain more accurate results. Adjustment techniques such as weighted least squares and kernel weights are used along with regression discontinuity design (RDD).
+This project utilizes demonstrates the use of regression discontinuity design (RDD) as a form of natural experiment that works as an alternative to A/B testing. RDD measures treatment effects at points of discontinuity to get an idea of the effectiveness of a program without needing to rigorously A/B test it. This technique was applied to assess the discounting strategy of an e-commerce company.
